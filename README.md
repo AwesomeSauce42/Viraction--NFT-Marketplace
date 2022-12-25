@@ -1,4 +1,4 @@
-##Requirements
+## Requirements
 * Node.js with the following modules
     * body-parser: ~1.13.2
     * cookie-parser: ~1.3.5
@@ -11,10 +11,10 @@
     * passport: ~0.3.2
     * slugify: ~0.1.1
 
-##Installation
+## Installation
 * Install dependencies in `package.json`: `npm install`
 
-##Usage
+## Usage
 * Execute `node bin/www.js` from project directory
 
 VIRACTION is a web marketplace for NFTs and crypto collectibles. Non-fungible tokens (NFTs) are one of the many emerging technologies. coming out of the growing blockchain industry. 
@@ -29,6 +29,7 @@ Requirements for running this program:
 2. All npm libraries are there which are required.
 
 To run the code the user has to use the following command on the command line:
-Command: nodemon ./bin/www.js
-
+```
+nodemon ./bin/www.js
+```
 While its running just open "localhost:3000" in your browser.
